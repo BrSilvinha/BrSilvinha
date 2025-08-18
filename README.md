@@ -136,11 +136,11 @@ const jhamir = {
 
 | Goal | Progress | Status |
 |------|----------|---------|
-| 🎓 Complete Systems Engineering Degree | ![80%](https://progress-bar.dev/80) | 🚀 On Track |
-| 💼 Land First Full-Time Developer Role | ![60%](https://progress-bar.dev/60) | 🔍 Searching |
-| 📱 Build Mobile Application | ![30%](https://progress-bar.dev/30) | 📋 Planning |
-| ☁️ Learn Cloud Technologies | ![45%](https://progress-bar.dev/45) | 📚 Learning |
-| 🌟 Contribute to Open Source | ![25%](https://progress-bar.dev/25) | 🚀 Starting |
+| 🎓 Complete Systems Engineering Degree | `████████░░` 80% | 🚀 On Track |
+| 💼 Land First Full-Time Developer Role | `██████░░░░` 60% | 🔍 Searching |
+| 📱 Build Mobile Application | `███░░░░░░░` 30% | 📋 Planning |
+| ☁️ Learn Cloud Technologies | `█████░░░░░` 45% | 📚 Learning |
+| 🌟 Contribute to Open Source | `███░░░░░░░` 25% | 🚀 Starting |
 
 </div>
 
