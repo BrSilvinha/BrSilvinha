@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/BrSilvinha/BrSilvinha/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Header Wave" />
 </div>
 
 ---
@@ -206,10 +206,10 @@ def analyze_data(dataset):
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jhamir-silva)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/51982566142)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:jhamirsilva@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/brasuca_16/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/BrSilvinha)
 
 ### 📧 **¿Tienes un proyecto en mente?**
 **¡Hablemos!** Estoy siempre abierto a nuevas oportunidades y colaboraciones interesantes.
